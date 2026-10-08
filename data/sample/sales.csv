@@ -1,0 +1,13 @@
+date,product,category,region,sales,quantity,profit,customer
+2026-01-03,Laptop,Electronics,North,120000,4,18000,Aarav
+2026-01-08,Phone,Electronics,West,85000,7,12000,Diya
+2026-01-15,Chair,Furniture,North,24000,12,5500,Rohan
+2026-02-02,Laptop,Electronics,South,90000,3,14000,Meera
+2026-02-10,Desk,Furniture,West,36000,6,8000,Kabir
+2026-02-18,Phone,Electronics,North,110000,9,17000,Ishita
+2026-03-01,Monitor,Electronics,South,54000,8,9000,Arjun
+2026-03-09,Chair,Furniture,West,28000,14,6200,Sanya
+2026-03-19,Laptop,Electronics,North,150000,5,24000,Vivaan
+2026-03-27,Desk,Furniture,South,42000,7,9500,Anaya
+2026-04-04,Phone,Electronics,West,98000,8,15000,Reyansh
+2026-04-12,Monitor,Electronics,North,62000,9,10500,Myra
